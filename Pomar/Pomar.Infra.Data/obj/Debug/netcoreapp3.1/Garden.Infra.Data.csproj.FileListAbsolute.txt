@@ -1,0 +1,15 @@
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\bin\Debug\netcoreapp3.1\Garden.Infra.Data.deps.json
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\bin\Debug\netcoreapp3.1\Garden.Infra.Data.runtimeconfig.json
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\bin\Debug\netcoreapp3.1\Garden.Infra.Data.runtimeconfig.dev.json
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\bin\Debug\netcoreapp3.1\Garden.Infra.Data.dll
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\bin\Debug\netcoreapp3.1\Garden.Infra.Data.pdb
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\bin\Debug\netcoreapp3.1\Garden.Domain.dll
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\bin\Debug\netcoreapp3.1\Garden.Domain.pdb
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\obj\Debug\netcoreapp3.1\Garden.Infra.Data.csprojAssemblyReference.cache
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\obj\Debug\netcoreapp3.1\Garden.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\obj\Debug\netcoreapp3.1\Garden.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\obj\Debug\netcoreapp3.1\Garden.Infra.Data.AssemblyInfo.cs
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\obj\Debug\netcoreapp3.1\Garden.Infra.Data.csproj.CopyComplete
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\obj\Debug\netcoreapp3.1\Garden.Infra.Data.dll
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\obj\Debug\netcoreapp3.1\Garden.Infra.Data.pdb
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Infra.Data\obj\Debug\netcoreapp3.1\Garden.Infra.Data.genruntimeconfig.cache

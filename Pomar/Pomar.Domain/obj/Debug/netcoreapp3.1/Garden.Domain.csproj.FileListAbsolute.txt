@@ -1,0 +1,9 @@
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Domain\bin\Debug\netcoreapp3.1\Garden.Domain.deps.json
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Domain\bin\Debug\netcoreapp3.1\Garden.Domain.dll
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Domain\bin\Debug\netcoreapp3.1\Garden.Domain.pdb
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Domain\obj\Debug\netcoreapp3.1\Garden.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Domain\obj\Debug\netcoreapp3.1\Garden.Domain.AssemblyInfoInputs.cache
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Domain\obj\Debug\netcoreapp3.1\Garden.Domain.AssemblyInfo.cs
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Domain\obj\Debug\netcoreapp3.1\Garden.Domain.dll
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Domain\obj\Debug\netcoreapp3.1\Garden.Domain.pdb
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Domain\obj\Debug\netcoreapp3.1\Garden.Domain.csprojAssemblyReference.cache
