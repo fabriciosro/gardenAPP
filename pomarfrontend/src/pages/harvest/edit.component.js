@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import axios from 'axios';
+import api from '../../services/api';
 import Moment from 'moment';
 
 export default class EditHarvest extends Component {
@@ -20,7 +20,7 @@ export default class EditHarvest extends Component {
   }
 
   componentDidMount() {
-    axios.get('https://localhost:5001/harvest/'+this.props.match.params.id)
+    api.get('/harvest/'+this.props.match.params.id)
           .then(response => {
               this.setState({ 
                 id: response.data.id,
@@ -64,7 +64,7 @@ export default class EditHarvest extends Component {
       grossWeight: this.state.grossWeight,
       treeId: this.state.treeId
     };
-    axios.put('https://localhost:5001/Harvest/'+this.props.match.params.id, obj)
+    api.put('/Harvest/'+this.props.match.params.id, obj)
         .then(res => console.log(res.data));
     
     this.props.history.push('/index');
@@ -88,7 +88,6 @@ export default class EditHarvest extends Component {
                     <label>Harvest Date: </label>
                     <input type="Date" 
                       placeholder="dd/mm/aaaa" 
-                      // pattern="\d{1,2}-\d{1,2}-\d{4}"
                       className="form-control"
                       value={Moment(this.state.harvestDate).format('yyyy-MM-dd')}
                       onChange={this.onChangeHarvestDate}

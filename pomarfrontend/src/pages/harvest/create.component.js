@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import axios from 'axios';
+import api from '../../services/api';
 
 export default class CreateHarvest extends Component {
   constructor(props) {
@@ -49,7 +49,7 @@ export default class CreateHarvest extends Component {
 
     console.log(obj);
 
-    axios.post('https://localhost:5001/harvest', obj)
+    api.post('/harvest', obj)
         .then(res => console.log(res.data));
     
     this.setState({

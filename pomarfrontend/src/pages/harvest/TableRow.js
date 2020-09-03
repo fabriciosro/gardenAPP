@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import axios from 'axios';
+import api from '../../services/api';
 import Moment from 'moment';
 
 class TableRowHarvest extends Component {
@@ -10,7 +10,7 @@ class TableRowHarvest extends Component {
         this.delete = this.delete.bind(this);
     }
     delete() {
-        axios.delete('https://localhost:5001/harvest/'+this.props.obj.id)
+        api.delete('/harvest/'+this.props.obj.id)
             .then(console.log('Deleted'))
             .catch(err => console.log(err))
     }

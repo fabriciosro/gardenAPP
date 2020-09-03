@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import TableRow from './TableRow';
 import { Link } from 'react-router-dom';
-import axios from 'axios';
+import api from '../../services/api';
 
 export default class IndexHarvest extends Component {
 
@@ -10,7 +10,7 @@ export default class IndexHarvest extends Component {
       this.state = {harvest: []};
     }
     componentDidMount(){
-      axios.get('https://localhost:5001/harvest')
+      api.get('/harvest')
         .then(response => {
           this.setState({ harvest: response.data });
         })
