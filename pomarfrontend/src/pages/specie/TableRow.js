@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import axios from 'axios';
+import api from '../../services/api';
 
 class TableRowSpecie extends Component {
 
@@ -9,7 +9,7 @@ class TableRowSpecie extends Component {
         this.delete = this.delete.bind(this);
     }
     delete() {
-        axios.delete('https://localhost:5001/Specie/'+this.props.obj.id)
+        api.delete('/Specie/'+this.props.obj.id)
             .then(console.log('Deleted'))
             .catch(err => console.log(err))
     }

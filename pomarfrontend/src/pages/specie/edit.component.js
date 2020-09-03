@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import axios from 'axios';
+import api from '../../services/api';
 
 export default class EditSpecie extends Component {
   constructor(props) {
@@ -13,7 +13,7 @@ export default class EditSpecie extends Component {
   }
 
   componentDidMount() {
-    axios.get('https://localhost:5001/Specie/'+this.props.match.params.id)
+    api.get('/Specie/'+this.props.match.params.id)
           .then(response => {
               this.setState({ 
                 id: response.data.id,
@@ -37,7 +37,7 @@ export default class EditSpecie extends Component {
       information: this.state.information
     };    
 
-    axios.put('https://localhost:5001/specie/'+this.props.match.params.id, obj)
+    api.put('/specie/'+this.props.match.params.id, obj)
         .then(res => console.log(res.data));
     
     this.props.history.push('/index');

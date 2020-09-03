@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import axios from 'axios';
+import api from '../../services/api';
 
 export default class CreateSpecie extends Component {
   constructor(props) {
@@ -22,7 +22,7 @@ export default class CreateSpecie extends Component {
     const obj = {
       information: this.state.information,
     };
-    axios.post('https://localhost:5001/Specie', obj)
+    api.post('/Specie', obj)
         .then(res => console.log(res.data));
     
     this.setState({

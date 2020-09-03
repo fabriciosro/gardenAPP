@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import TableRow from './TableRow';
 import { Link } from 'react-router-dom';
-import axios from 'axios';
+import api from '../../services/api';
 
 export default class IndexSpecie extends Component {
 
@@ -10,7 +10,7 @@ export default class IndexSpecie extends Component {
       this.state = {specie: []};
     }
     componentDidMount(){
-      axios.get('https://localhost:5001/Specie')
+      api.get('/Specie')
         .then(response => {
           this.setState({ specie: response.data });
         })
