@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import axios from 'axios';
+import api from '../../services/api';
 
 class TableRowGroupTree extends Component {
 
@@ -9,7 +9,7 @@ class TableRowGroupTree extends Component {
         this.delete = this.delete.bind(this);
     }
     delete() {
-        axios.delete('https://localhost:5001/GroupTree/'+this.props.obj.id)
+        api.delete('/GroupTree/'+this.props.obj.id)
             .then(console.log('Deleted'))
             .catch(err => console.log(err))
     }

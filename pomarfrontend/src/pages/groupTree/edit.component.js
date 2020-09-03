@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import axios from 'axios';
+import api from '../../services/api';
 
 export default class EditGroupTree extends Component {
   constructor(props) {
@@ -15,7 +15,7 @@ export default class EditGroupTree extends Component {
   }
 
   componentDidMount() {
-    axios.get('https://localhost:5001/GroupTree/'+this.props.match.params.id)
+    api.get('/GroupTree/'+this.props.match.params.id)
           .then(response => {
               this.setState({ 
                 id: response.data.id,
@@ -50,7 +50,7 @@ export default class EditGroupTree extends Component {
     console.log(obj);
     console.log(this.props.match.params.id);
 
-    axios.put('https://localhost:5001/GroupTree/'+this.props.match.params.id, obj)
+    api.put('/GroupTree/'+this.props.match.params.id, obj)
         .then(res => console.log(res.data));
     
     this.props.history.push('/index');

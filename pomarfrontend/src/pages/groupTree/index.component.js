@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import TableRow from './TableRow';
 import { Link } from 'react-router-dom';
-import axios from 'axios';
+import api from '../../services/api';
 
 export default class IndexGroupTree extends Component {
 
@@ -10,7 +10,7 @@ export default class IndexGroupTree extends Component {
       this.state = {grouptree: []};
     }
     componentDidMount(){
-      axios.get('https://localhost:5001/GroupTree')
+      api.get('/GroupTree')
         .then(response => {
           this.setState({ grouptree: response.data });
         })

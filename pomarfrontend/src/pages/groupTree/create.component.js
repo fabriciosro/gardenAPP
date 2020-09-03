@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import axios from 'axios';
+import api from '../../services/api';
 
 export default class CreateGroupTree extends Component {
   constructor(props) {
@@ -31,7 +31,7 @@ export default class CreateGroupTree extends Component {
       name: this.state.name,
       information: this.state.information,
     };
-    axios.post('https://localhost:5001/GroupTree', obj)
+    api.post('/GroupTree', obj)
         .then(res => console.log(res.data));
     
     this.setState({
