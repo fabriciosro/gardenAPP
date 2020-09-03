@@ -1,7 +1,13 @@
 Gerenciador de pomar
 
-Essa aplicação é separada em 2 projetos: 
+- Web API em .Net Core 3.1
+    - swagger
+    - flunt
+    - EF
+    - pomelo mySql    
 
-- Garden API em .Net Core 3.1
-
-- PomarFrontEnd em React
+- Aplicação web em React
+    - axios
+    - bootstrap
+    - moment
+    - yarn
