@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import axios from 'axios';
+import api from '../../services/api';
 
 export default class CreateTree extends Component {
   constructor(props) {
@@ -40,7 +40,7 @@ export default class CreateTree extends Component {
       specieId: this.state.specieId,
       treeAge: this.state.treeAge
     };
-    axios.post('https://localhost:5001/Tree', obj)
+    api.post('/Tree', obj)
         .then(res => console.log(res.data));
     
     this.setState({

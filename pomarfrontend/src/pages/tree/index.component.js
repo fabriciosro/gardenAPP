@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import TableRow from './TableRow';
 import { Link } from 'react-router-dom';
-import axios from 'axios';
+import api from '../../services/api';
 
 export default class IndexTree extends Component {
 
@@ -10,7 +10,7 @@ export default class IndexTree extends Component {
       this.state = {Tree: []};
     }
     componentDidMount(){
-      axios.get('https://localhost:5001/Tree')
+      api.get('/Tree')
         .then(response => {
           this.setState({ Tree: response.data });
         })
