@@ -1,14 +1,14 @@
-Aplicação para gerenciar pomar
+Application to manage garden
 
-Api modelada usando os príncipios do DDD
+Api modeled using DDD principles
 
-- Web API em .Net Core 3.1
+- .Net Core 3.1 Web API
     - swagger
     - flunt
     - EF
     - pomelo mySql    
 
-- Aplicação web em React
+- React web application
     - axios
     - bootstrap
     - moment
