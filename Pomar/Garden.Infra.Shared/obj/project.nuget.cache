@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UHCTWsURwm22Zi7tKULo1rLK7ORFDKaojGNQrEBPBiFM2NvPXdBruAc7xoi9ASjUOtPZlqd3cyzwqSxWksHS0w==",
+  "dgSpecHash": "a8spBs2krCdqaf+cQUoAVtfOk6pq3YSZRoC1cE75N3V3yhZqArKPmVCYmHrf34f3DrgQY0mDx3XXWthUqjW6gQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj",
+  "projectFilePath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\fabricio.rosa\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+    "C:\\Users\\fabri\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
   ],
   "logs": []
 }

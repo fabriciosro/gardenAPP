@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Infra.CrossCutting\\Garden.Infra.CrossCutting.csproj": {}
+    "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Infra.CrossCutting\\Garden.Infra.CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj": {
+    "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj",
+        "projectUniqueName": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj",
         "projectName": "Garden.Infra.Shared",
-        "projectPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj",
-        "packagesPath": "C:\\Users\\fabricio.rosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Garden.Infra.Shared\\obj\\",
+        "projectPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj",
+        "packagesPath": "C:\\Users\\fabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Garden.Infra.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fabricio.rosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Domain\\Garden.Domain.csproj": {
-                "projectPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Domain\\Garden.Domain.csproj"
+              "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Domain\\Garden.Domain.csproj": {
+                "projectPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Domain\\Garden.Domain.csproj"
               }
             }
           }
@@ -62,21 +62,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Domain\\Garden.Domain.csproj": {
+    "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Domain\\Garden.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Domain\\Garden.Domain.csproj",
+        "projectUniqueName": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Domain\\Garden.Domain.csproj",
         "projectName": "Garden.Domain",
-        "projectPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Domain\\Garden.Domain.csproj",
-        "packagesPath": "C:\\Users\\fabricio.rosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Domain\\obj\\",
+        "projectPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Domain\\Garden.Domain.csproj",
+        "packagesPath": "C:\\Users\\fabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fabricio.rosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -120,21 +120,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Infra.CrossCutting\\Garden.Infra.CrossCutting.csproj": {
+    "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Infra.CrossCutting\\Garden.Infra.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Infra.CrossCutting\\Garden.Infra.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Infra.CrossCutting\\Garden.Infra.CrossCutting.csproj",
         "projectName": "Garden.Infra.CrossCutting",
-        "projectPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Infra.CrossCutting\\Garden.Infra.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\fabricio.rosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Infra.CrossCutting\\obj\\",
+        "projectPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Infra.CrossCutting\\Garden.Infra.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\fabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Infra.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fabricio.rosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -147,17 +147,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj": {
-                "projectPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj"
+              "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj": {
+                "projectPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj"
               },
-              "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Domain\\Garden.Domain.csproj": {
-                "projectPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Domain\\Garden.Domain.csproj"
+              "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Domain\\Garden.Domain.csproj": {
+                "projectPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Domain\\Garden.Domain.csproj"
               },
-              "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Infra.Data\\Garden.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Infra.Data\\Garden.Infra.Data.csproj"
+              "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Infra.Data\\Garden.Infra.Data.csproj": {
+                "projectPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Infra.Data\\Garden.Infra.Data.csproj"
               },
-              "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Service\\Garden.Service.csproj": {
-                "projectPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Service\\Garden.Service.csproj"
+              "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Service\\Garden.Service.csproj": {
+                "projectPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Service\\Garden.Service.csproj"
               }
             }
           }
@@ -202,21 +202,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Infra.Data\\Garden.Infra.Data.csproj": {
+    "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Infra.Data\\Garden.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Infra.Data\\Garden.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Infra.Data\\Garden.Infra.Data.csproj",
         "projectName": "Garden.Infra.Data",
-        "projectPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Infra.Data\\Garden.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\fabricio.rosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Infra.Data\\obj\\",
+        "projectPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Infra.Data\\Garden.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\fabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fabricio.rosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -229,8 +229,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Domain\\Garden.Domain.csproj": {
-                "projectPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Domain\\Garden.Domain.csproj"
+              "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Domain\\Garden.Domain.csproj": {
+                "projectPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Domain\\Garden.Domain.csproj"
               }
             }
           }
@@ -280,21 +280,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Service\\Garden.Service.csproj": {
+    "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Service\\Garden.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Service\\Garden.Service.csproj",
+        "projectUniqueName": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Service\\Garden.Service.csproj",
         "projectName": "Garden.Service",
-        "projectPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Service\\Garden.Service.csproj",
-        "packagesPath": "C:\\Users\\fabricio.rosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Service\\obj\\",
+        "projectPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Service\\Garden.Service.csproj",
+        "packagesPath": "C:\\Users\\fabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fabricio.rosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -307,11 +307,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj": {
-                "projectPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj"
+              "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj": {
+                "projectPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Garden.Infra.Shared\\Garden.Infra.Shared.csproj"
               },
-              "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Domain\\Garden.Domain.csproj": {
-                "projectPath": "C:\\Users\\fabricio.rosa\\Documents\\Pessoal\\Projetos\\ProjPomar\\Pomar\\Pomar.Domain\\Garden.Domain.csproj"
+              "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Domain\\Garden.Domain.csproj": {
+                "projectPath": "C:\\Fabricio\\Projetos\\GardenPrj\\gardenApp\\Pomar\\Pomar.Domain\\Garden.Domain.csproj"
               }
             }
           }
@@ -339,7 +339,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
